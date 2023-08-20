@@ -1,0 +1,8 @@
+#+STARTUP: showall
+#+STARTUP: indent
+
+* NixOS
+
+I just followed the instructions on the NixOS wiki with regards to recommended rustup usage.
+
+https://nixos.wiki/wiki/Rust#Installation_via_rustup
