@@ -5,4 +5,5 @@
                                                      "./chapter-2/guessing_game/Cargo.toml"
                                                      "./chapter-3/variables/Cargo.toml"
                                                      "./chapter-3/data_types/Cargo.toml"
-                                                     "./chapter-3/functions/Cargo.toml"]))))
+                                                     "./chapter-3/functions/Cargo.toml"
+                                                     "./chapter-3/control_flow/Cargo.toml"]))))
