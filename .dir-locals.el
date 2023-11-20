@@ -11,4 +11,5 @@
                                                      "./chapter-4/references_and_borrowing/Cargo.toml"
                                                      "./chapter-4/slice/Cargo.toml"
                                                      "./chapter-5/structs/Cargo.toml"
-                                                     "./chapter-5/rectangles/Cargo.toml"]))))
+                                                     "./chapter-5/rectangles/Cargo.toml"
+                                                     "./chapter-6/enums/Cargo.toml"]))))
