@@ -12,4 +12,5 @@
                                                      "./chapter-4/slice/Cargo.toml"
                                                      "./chapter-5/structs/Cargo.toml"
                                                      "./chapter-5/rectangles/Cargo.toml"
-                                                     "./chapter-6/enums/Cargo.toml"]))))
+                                                     "./chapter-6/enums/Cargo.toml"
+                                                     "./chapter-6/matches/Cargo.toml"]))))
