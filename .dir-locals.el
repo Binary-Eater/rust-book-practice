@@ -15,4 +15,6 @@
                                                      "./chapter-6/enums/Cargo.toml"
                                                      "./chapter-6/matches/Cargo.toml"
                                                      "./chapter-6/if-let/Cargo.toml"
-                                                     "./chapter-7/my-project/Cargo.toml"]))))
+                                                     "./chapter-7/my-project/Cargo.toml"
+                                                     "./chapter-7/backyard/Cargo.toml"
+                                                     "./chapter-7/restaurant/Cargo.toml"]))))
