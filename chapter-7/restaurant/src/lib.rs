@@ -14,12 +14,20 @@ mod front_of_house {
     }
 }
 
+// Re-export as restaurant::hosting
+// No longer need to use restaurant::front_of_house::hosting
+// as an external crate user.
+pub use crate::front_of_house::hosting;
+
 pub fn eat_at_restaurant() {
     // Absolute path
     crate::front_of_house::hosting::add_to_waitlist();
 
     // Relative path
     front_of_house::hosting::add_to_waitlist();
+
+    // Take advantage of use keyword
+    hosting::add_to_waitlist();
 
     // Order a breakfast in the summer with Rye toast
     let mut meal = back_of_house::Breakfast::summer("Rye");
@@ -34,6 +42,18 @@ pub fn eat_at_restaurant() {
     let order1 = back_of_house::Appetizer::Soup;
     let order2 = back_of_house::Appetizer::Salad;
 }
+
+// Will fail to resolve hosting in customer module context
+/*
+mod customer {
+    // Can use paths inside of non-top level modules
+    // use crate::front_of_house::hosting;
+
+    pub fn eat_at_restaurant() {
+        hosting::add_to_waitlist();
+    }
+}
+*/
 
 fn deliver_order() {}
 
