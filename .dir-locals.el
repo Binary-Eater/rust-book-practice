@@ -19,4 +19,5 @@
                                                      "./chapter-7/backyard/Cargo.toml"
                                                      "./chapter-7/restaurant/Cargo.toml"
                                                      "./chapter-7/use-practice/Cargo.toml"
-                                                     "./chapter-8/vectors/Cargo.toml"]))))
+                                                     "./chapter-8/vectors/Cargo.toml"
+                                                     "./chapter-8/strings/Cargo.toml"]))))
