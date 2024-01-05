@@ -21,4 +21,5 @@
                                                      "./chapter-7/use-practice/Cargo.toml"
                                                      "./chapter-8/vectors/Cargo.toml"
                                                      "./chapter-8/strings/Cargo.toml"
-                                                     "./chapter-8/hashmaps/Cargo.toml"]))))
+                                                     "./chapter-8/hashmaps/Cargo.toml"
+                                                     "./chapter-9/panic/Cargo.toml"]))))
