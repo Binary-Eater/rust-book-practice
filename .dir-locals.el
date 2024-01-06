@@ -23,4 +23,5 @@
                                                      "./chapter-8/strings/Cargo.toml"
                                                      "./chapter-8/hashmaps/Cargo.toml"
                                                      "./chapter-9/panic/Cargo.toml"
-                                                     "./chapter-9/error-handling/Cargo.toml"]))))
+                                                     "./chapter-9/error-handling/Cargo.toml"
+                                                     "./chapter-9/to-panic-or-not/Cargo.toml"]))))
