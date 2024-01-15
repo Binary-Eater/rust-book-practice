@@ -27,4 +27,5 @@
                                                      "./chapter-9/to-panic-or-not/Cargo.toml"
                                                      "./chapter-10/generics/Cargo.toml"
                                                      "./chapter-10/traits/Cargo.toml"
-                                                     "./chapter-10/lifetimes/Cargo.toml"]))))
+                                                     "./chapter-10/lifetimes/Cargo.toml"
+                                                     "./chapter-11/adder/Cargo.toml"]))))
