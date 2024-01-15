@@ -29,4 +29,5 @@
                                                      "./chapter-10/traits/Cargo.toml"
                                                      "./chapter-10/lifetimes/Cargo.toml"
                                                      "./chapter-11/adder/Cargo.toml"
-                                                     "./chapter-11/silly-function/Cargo.toml"]))))
+                                                     "./chapter-11/silly-function/Cargo.toml"
+                                                     "./chapter-11/test-org/Cargo.toml"]))))
