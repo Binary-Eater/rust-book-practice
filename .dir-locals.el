@@ -32,4 +32,5 @@
                                                      "./chapter-11/silly-function/Cargo.toml"
                                                      "./chapter-11/test-org/Cargo.toml"
                                                      "./chapter-12/minigrep/Cargo.toml"
-                                                     "./chapter-13/closures/Cargo.toml"]))))
+                                                     "./chapter-13/closures/Cargo.toml"
+                                                     "./chapter-13/iterators/Cargo.toml"]))))
