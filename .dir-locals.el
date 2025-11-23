@@ -33,4 +33,7 @@
                                                      "./chapter-11/test-org/Cargo.toml"
                                                      "./chapter-12/minigrep/Cargo.toml"
                                                      "./chapter-13/closures/Cargo.toml"
-                                                     "./chapter-13/iterators/Cargo.toml"]))))
+                                                     "./chapter-13/iterators/Cargo.toml"
+                                                     "./chapter-14/my_crate/Cargo.toml"
+                                                     "./chapter-14/art/Cargo.toml"
+                                                     "./chapter-14/add/Cargo.toml"]))))
