@@ -37,4 +37,5 @@
                                                      "./chapter-14/my_crate/Cargo.toml"
                                                      "./chapter-14/art/Cargo.toml"
                                                      "./chapter-14/add/Cargo.toml"
-                                                     "./chapter-15/boxes/Cargo.toml"]))))
+                                                     "./chapter-15/boxes/Cargo.toml"
+                                                     "./chapter-15/deref/Cargo.toml"]))))
