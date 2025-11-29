@@ -39,4 +39,5 @@
                                                      "./chapter-14/add/Cargo.toml"
                                                      "./chapter-15/boxes/Cargo.toml"
                                                      "./chapter-15/deref/Cargo.toml"
-                                                     "./chapter-15/drop/Cargo.toml"]))))
+                                                     "./chapter-15/drop/Cargo.toml"
+                                                     "./chapter-15/rc/Cargo.toml"]))))
