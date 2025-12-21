@@ -43,4 +43,5 @@
                                                      "./chapter-15/rc/Cargo.toml"
                                                      "./chapter-15/refcell/Cargo.toml"
                                                      "./chapter-15/memleak/Cargo.toml"
-                                                     "./chapter-15/tree/Cargo.toml"]))))
+                                                     "./chapter-15/tree/Cargo.toml"
+                                                     "./chapter-16/threads/Cargo.toml"]))))
