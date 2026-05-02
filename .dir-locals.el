@@ -47,4 +47,5 @@
                                                      "./chapter-16/threads/Cargo.toml"
                                                      "./chapter-16/channels/Cargo.toml"
                                                      "./chapter-16/shared-state/Cargo.toml"
-                                                     "./chapter-17/hello-async/Cargo.toml"]))))
+                                                     "./chapter-17/hello-async/Cargo.toml"
+                                                     "./chapter-17/concurrent-async/Cargo.toml"]))))
